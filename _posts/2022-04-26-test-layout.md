@@ -2,7 +2,7 @@
 layout: post
 title: "Probando el layout"
 description: "Primera prueba layout"
-tag: ProbandoTags
+tags: ProbandoTags
 ---
 
 # Probando layout
