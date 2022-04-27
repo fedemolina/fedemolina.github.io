@@ -1,9 +1,16 @@
 ---
 layout: post
-title: "Probando un layout"
-description: "Recién vi este ejemplo"
-date: 2022-04-27T07:00:00-07:00
-tags: Probando los tags
+title: "Probando el layout"
+description: "Primera prueba layout"
+tag: ProbandoTags
 ---
 
-Test de layout más pro
+# Primer blog de prueba
+
+Este es el primer post de prueba en el inicio de este blog. No contiene ninguna información útil.
+
+Vamos a probar agregar código de R:
+
+```r
+print("hola mundo")
+```
