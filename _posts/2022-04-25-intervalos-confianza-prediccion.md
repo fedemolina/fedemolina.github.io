@@ -3,7 +3,7 @@ layout: post
 title: "Intervalos de confianza e intervalos de predicción"
 description: "Comentarios respecto de intervalos de confianza e intervalos de predicción"
 date: 2021-11-01T07:00:00-07:00
-tags: Series Temporales
+tags: "Series Temporales"
 ---
 
 # Intervalos de confianza e intervalos de predicción
