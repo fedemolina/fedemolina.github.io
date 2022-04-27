@@ -5,7 +5,7 @@ description: "Primera prueba layout"
 tag: ProbandoTags
 ---
 
-# Primer blog de prueba
+# Probando layout
 
 Este es el primer post de prueba en el inicio de este blog. No contiene ninguna información útil.
 
