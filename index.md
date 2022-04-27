@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+# Introducción
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Probando crear un blog para escribir respecto a temas de estadística, matemática y aprendizaje automático. Tal vez alguna cosa de economía, tal vez...Y muchas cosas referidas a artículos o libros que lea para la maestría de ingeniería matemática. O sea...para divertirme.
