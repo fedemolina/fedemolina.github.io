@@ -3,7 +3,7 @@ layout: post
 title: "Estimadores"
 description: "Resumen de estimadores"
 date: 2022-04-24
-tags: Testeando
+tags: Estadística
 ---
 
 # Estimadores y sus relaciones
