@@ -14,9 +14,22 @@ Definición: "Toda 3-Variedad cerrada simplemente conexa es homeomorfa a una 3-e
 
 En el planteamiento debemos entender los conceptos de **variedad**, **conjunto cerrado**, **conexión**, **homeomorfismos**, **esfera**.
 
+Variedad:
+
+Conjunto cerrado:
+
+Conexión:
+
+Homeomorfismo:
+
+Esfera:
+
 ## Videos consultados
 
 - [Derivando: La conjetura de Poincaré](https://www.youtube.com/watch?v=tKbZT-a7zPE)
 - [Mates Mike: ¿Qué hace que una esfera sea una esfera?](https://www.youtube.com/watch?v=NdKEcMImYy8)
+- [Numberphile: Poincaré Conjecture](https://www.youtube.com/watch?v=GItmC9lxeco)
 
 ## Artículos consultados
+
+-
