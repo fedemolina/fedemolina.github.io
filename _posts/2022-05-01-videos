@@ -7,9 +7,12 @@ tags: MatemáticaVideos
 ---
 
 
-# Links
+# Links de videos
 
+- Espacio métricos definición de distancia:
 [https://www.youtube.com/watch?v=MgEp4Gb9TCA](No todas las bolas son redondas)
 
+El video presenta una quási-métrica o pseudo-métrica en vez de una métrica porque no define la propiedad de simétrica (d(x,y) = d(y,x)). Con ello, muestra que las bolas tienen una forma que depende de la noción de distancia que se elija. 
+Y por ello, la noción de pi también depende de la distancia puesto que se define como la longitud de la circunferencia sobre el diámetro.
 
 
