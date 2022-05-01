@@ -32,7 +32,7 @@ Esfera:
 - [Derivando: La conjetura de Poincaré](https://www.youtube.com/watch?v=tKbZT-a7zPE)
 - [Mates Mike: ¿Qué hace que una esfera sea una esfera?](https://www.youtube.com/watch?v=NdKEcMImYy8)
 - [Numberphile: Poincaré Conjecture](https://www.youtube.com/watch?v=GItmC9lxeco)
-- [Aleph 0: Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
+- [Aleph 0: Poincare Conjecture and Ricci Flow. A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
 
 ## Artículos consultados
 
