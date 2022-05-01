@@ -11,7 +11,7 @@ tags: Matemática
 
 ## Videos consultados
 
-- [Aleph 0: Elliptic Curves and Modular Forms | The Proof of Fermat’s Last Theorem](https://www.youtube.com/watch?v=grzFM5XciAY)
+- [Aleph 0: Elliptic Curves and Modular Forms. The Proof of Fermat’s Last Theorem](https://www.youtube.com/watch?v=grzFM5XciAY)
 
 ## Artículos consultados
 
