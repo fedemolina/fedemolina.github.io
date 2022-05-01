@@ -8,7 +8,7 @@ tags: Matemática
 
 Me interesa entender el problema para ver si puedo llegar a comentarlo en el curso de análisis real y topología (de lo cual no entiendo nada). Por eso, voy a ir agregando material que me ayude en ese sentido, me voy a valer de videos y artículos introductorios al tema.
 
-# La paradoja de Poincaré
+# La conjetura de Poincaré
 
 Definición: "Toda 3-Variedad cerrada simplemente conexa es homeomorfa a una 3-esfera"
 
@@ -29,6 +29,7 @@ Esfera:
 - [Derivando: La conjetura de Poincaré](https://www.youtube.com/watch?v=tKbZT-a7zPE)
 - [Mates Mike: ¿Qué hace que una esfera sea una esfera?](https://www.youtube.com/watch?v=NdKEcMImYy8)
 - [Numberphile: Poincaré Conjecture](https://www.youtube.com/watch?v=GItmC9lxeco)
+- [Aleph 0: Poincare Conjecture and Ricci Flow | A Million Dollar Problem in Topology](https://www.youtube.com/watch?v=PwRl5W-whTs)
 
 ## Artículos consultados
 
