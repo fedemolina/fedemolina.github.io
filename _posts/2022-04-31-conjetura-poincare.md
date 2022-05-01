@@ -10,11 +10,14 @@ Me interesa entender el problema para ver si puedo llegar a comentarlo en el cur
 
 # La conjetura de Poincaré
 
-Definición: "Toda 3-Variedad cerrada simplemente conexa es homeomorfa a una 3-esfera"
+Definiciones: 
+
+"Toda 3-Variedad cerrada simplemente conexa es homeomorfa a una 3-esfera"
+"Cualquier 3-variedad conectada (path-connected) y que se puede contraer a un punto es homeomorfo a una 3-esfera"
 
 En el planteamiento debemos entender los conceptos de **variedad**, **conjunto cerrado**, **conexión**, **homeomorfismos**, **esfera**.
 
-Variedad:
+Variedad (Manifold): Una "curva" es una 1-variedad, una "superficie" es una 2-variedad. Una n-variedad, una variedad de dimensión N es un espacio que localmente se parece a $R^n$
 
 Conjunto cerrado:
 
