@@ -17,7 +17,7 @@ Definiciones:
 
 En el planteamiento debemos entender los conceptos de **variedad**, **conjunto cerrado**, **conexión**, **homeomorfismos**, **esfera**.
 
-Variedad (Manifold): Una "curva" es una 1-variedad, una "superficie" es una 2-variedad. Una n-variedad, una variedad de dimensión N es un espacio que localmente se parece a $$R^n$$
+Variedad (Manifold): Una "curva" es una 1-variedad, una "superficie" es una 2-variedad. Una n-variedad, una variedad de dimensión N es un espacio que localmente se parece a $R^n$
 
 Conjunto cerrado:
 
