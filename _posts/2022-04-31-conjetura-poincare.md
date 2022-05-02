@@ -19,6 +19,8 @@ En el planteamiento debemos entender los conceptos de **variedad**, **conjunto c
 
 Variedad (Manifold): Una "curva" es una 1-variedad, una "superficie" es una 2-variedad. Una n-variedad, una variedad de dimensión N es un espacio que localmente se parece a $R^n$
 
+\\(V = \frac{O-P}{FC}\\)
+
 Conjunto cerrado:
 
 Conexión:
